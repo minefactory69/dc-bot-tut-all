@@ -1,3 +1,5 @@
 # dc-bot-tut-all
 
-Használjátok egészséggl
+Használjátok egészséggel.
+
+
